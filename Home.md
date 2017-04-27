@@ -1,4 +1,4 @@
-<center>![](images/ttc-logo.png)</center> 
+<center>![](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-logo.png)</center> 
 > Updated: April 19, 2017
 
 # Oracle Touch the Cloud Series 
@@ -11,10 +11,15 @@ This repository will give oyu all the common styling and images you need for you
 Here are a few of the items you can reference (right from this project)
 
 
-```
-Logo: 
-Top Banner:
-CSS: 
-```
+Logo: [https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-logo.png](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-logo.png)
+
+Top Banner: [https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-top-banner.jpg](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-top-banner.jpg)
+
+Template CSS: [https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/css/solutionEngTemplate.css](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/css/solutionEngTemplate.css)
+
+Workshop CSS: [https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/css/workshopIndex.css](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/css/workshopIndex.css)
+
+Workshop Menu Instruction: [https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-workshop-menu.png](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-workshop-menu.png)
+
 
 
