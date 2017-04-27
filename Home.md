@@ -1,4 +1,4 @@
-<center>![](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-logo.png)</center> 
+<center>![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png)</center> 
 > Updated: April 19, 2017
 
 # Oracle Touch the Cloud Series 
@@ -11,15 +11,38 @@ This repository will give oyu all the common styling and images you need for you
 Here are a few of the items you can reference (right from this project)
 
 
-Logo: [https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-logo.png](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-logo.png)
+Logo: [https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png)
 
-Top Banner: [https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-top-banner.jpg](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-top-banner.jpg)
+Top Banner: [https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-top-banner.jpg](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-top-banner.jpg)
 
-Template CSS: [https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/css/solutionEngTemplate.css](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/css/solutionEngTemplate.css)
+Template CSS: [https://cloudaccelerate.github.io/TTC-CommonContent/css/solutionEngTemplate.css](https://cloudaccelerate.github.io/TTC-CommonContent/css/solutionEngTemplate.css)
 
-Workshop CSS: [https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/css/workshopIndex.css](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/css/workshopIndex.css)
+Workshop CSS: [https://cloudaccelerate.github.io/TTC-CommonContent/css/workshopIndex.css](https://cloudaccelerate.github.io/TTC-CommonContent/css/workshopIndex.css)
 
-Workshop Menu Instruction: [https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-workshop-menu.png](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-workshop-menu.png)
+Workshop Menu Instruction: [https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-workshop-menu.png](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-workshop-menu.png)
 
+## Standards
+### Tniy URLs
+It is highly suggested to use rebrandly where possible to setup tinyurls - rebrandly will let you swap out the backend URL if it neds to be changed 
+
+
+```
+ex: When creating a public DOCs link that expires
+```
+
+### Repository naming Conventions
+Please Prefix all repositories with: TTC-< Project Descriptor/Code Descriptor >< Postfixed with intent if needed >
+
+```
+code example: TTC-CatalogApp
+lab example: TTC-DevOpsLab
+```
+
+### Folder structure for Lab Guides
+All Labs will ultimately be pushed up to the learning library on Oracle's GitHub. Please use the following conventions:
+* root of directory will have a single folder called workshops
+* within workshops you will have a single folder for your workshop
+* your workshop will be named ttc-< descrptor > (ex: ttc-devops-starter-kit)
+ * do **NOT** use camel case but instead separate with a dash
 
 

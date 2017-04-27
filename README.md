@@ -1,4 +1,4 @@
-<center>![](https://raw.githubusercontent.com/CloudAccelerate/TTC-CommonContent/master/images/ttc-logo.png)</center>
+<center>![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png)</center>
 > Updated: April 19, 2017
 
 # Common Content
