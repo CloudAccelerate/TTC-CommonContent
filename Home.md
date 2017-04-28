@@ -22,7 +22,7 @@ Workshop CSS: [https://cloudaccelerate.github.io/TTC-CommonContent/css/workshopI
 Workshop Menu Instruction: [https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-workshop-menu.png](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-workshop-menu.png)
 
 ## Standards
-### Tniy URLs
+### Tiny URLs
 It is highly suggested to use rebrandly where possible to setup tinyurls - rebrandly will let you swap out the backend URL if it neds to be changed 
 
 
