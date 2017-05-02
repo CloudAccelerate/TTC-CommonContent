@@ -1,4 +1,4 @@
-<center>![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png)</center> 
+![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png) 
 > Updated: April 19, 2017
 
 # Oracle Touch the Cloud Series 

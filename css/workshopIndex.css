@@ -27,6 +27,11 @@ table {
     border-spacing: 0;
 }
 
+img:not(.infra), canvas:not(.infra), iframe:not(.infra), video:not(.infra), select:not(.infra), textarea:not(.infra) {
+    display: block;
+    margin: 0 auto;
+}
+
 
 /*DESKTOP SETTINGS*/
 
