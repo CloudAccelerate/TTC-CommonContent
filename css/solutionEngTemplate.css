@@ -232,7 +232,7 @@ textarea:not(.infra) {
   max-width: 100%;
   padding:1px;
    --border:1px solid #021a40;
-   margin: .4rem;
+   margin: 0;
     box-shadow: 10px 10px 5px #888888;
 
 }

@@ -1,22 +1,15 @@
-#labguide {
-    
-    margin: 0 auto; 
-    padding: 3.25rem 10em; 
-    font-family: 'Open Sans Condensed', sans-serif; 
-    font-weight: 300;
-}
-
 body {
-    padding: 0; 
-    max-width:100%;
+    padding: 0;
+    max-width: 100%;
 }
 
-md-toolbar.md-default-theme.md-hue-2:not(.md-menu-toolbar), md-toolbar.md-hue-2:not(.md-menu-toolbar) {
+md-toolbar.md-default-theme.md-hue-2:not(.md-menu-toolbar),
+md-toolbar.md-hue-2:not(.md-menu-toolbar) {
     background-image: url("https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-top-banner.jpg");
     background-repeat: no-repeat;
-    background-position: center; 
+    background-position: center;
     background-color: #006E87;
-    color: rgba(255,255,255,0.87);
+    color: rgba(255, 255, 255, 0.87);
 }
 
 td {
@@ -32,4 +25,27 @@ th {
 
 table {
     border-spacing: 0;
+}
+
+/*DESKTOP SETTINGS*/
+
+@media only screen and (min-width: 801px) {
+    #labguide {
+        margin: 0 auto;
+        padding: 3.25rem 10em;
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-weight: 300;
+    }
+}
+
+
+/*PHONE AND TABLET SETTINGS*/
+
+@media only screen and (max-width: 800px) {
+    #labguide {
+        margin: 0 auto;
+        padding: 1rem;
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-weight: 300;
+    }
 }
