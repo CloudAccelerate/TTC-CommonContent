@@ -28,8 +28,8 @@ table {
 }
 
 img:not(.infra), canvas:not(.infra), iframe:not(.infra), video:not(.infra), select:not(.infra), textarea:not(.infra) {
-    display: block;
-    margin: 0 auto;
+    display: block !important;
+    margin: 0 auto !important;
 }
 
 
