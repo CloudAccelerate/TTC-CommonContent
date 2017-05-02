@@ -63,7 +63,7 @@ table {
     }
     p:not(.infra),
     .modest-p:not(.infra) {
-        font-size: .75rem;
+        font-size: .85rem;
         margin-bottom: 1rem;
         margin-left: 15px;
     }
