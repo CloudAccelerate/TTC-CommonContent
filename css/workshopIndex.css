@@ -27,6 +27,7 @@ table {
     border-spacing: 0;
 }
 
+
 /*DESKTOP SETTINGS*/
 
 @media only screen and (min-width: 801px) {
@@ -47,5 +48,23 @@ table {
         padding: 1rem;
         font-family: 'Open Sans Condensed', sans-serif;
         font-weight: 300;
+    }
+    h1:not(.infra),
+    .modest-h1:not(.infra) {
+        font-size: 1.5rem;
+    }
+    h2:not(.infra),
+    .modest-h1:not(.infra) {
+        font-size: 1.25rem;
+    }
+    h3:not(.infra),
+    .modest-h1:not(.infra) {
+        font-size: 1rem;
+    }
+    p:not(.infra),
+    .modest-p:not(.infra) {
+        font-size: .75rem;
+        margin-bottom: 1rem;
+        margin-left: 15px;
     }
 }
