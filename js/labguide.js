@@ -15,7 +15,6 @@ angular.module('labGuide', ['ngMaterial', 'ngSanitize']).config(function ($mdThe
                 };
                 $http.get('manifest.json').then(function (res) {
                     $scope.manifest = res.data;
-                    console.log("Interactive", $scope.manifest.workshop.interactive);
                     $scope.interactive = {
                         src: $scope.manifest.workshop.interactive
                         , title: "Interactive Tour"
@@ -25,7 +24,6 @@ angular.module('labGuide', ['ngMaterial', 'ngSanitize']).config(function ($mdThe
                     console.log(msg);
                 });
                 $scope.trustSrc = function (src) {
-                    console.log("trusting", src);
                     return $sce.trustAsResourceUrl(src);
                 }
                 $scope.loadContent = function (page) {
