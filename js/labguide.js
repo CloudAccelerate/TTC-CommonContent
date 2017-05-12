@@ -109,6 +109,9 @@ angular.module('labGuide', ['ngMaterial', 'ngSanitize']).config(function ($mdThe
                 $scope.close = function () {
                     $mdSidenav('left').close();
                 };
+                $scope.cancel = function() {
+				  $mdDialog.cancel();
+				};
                 //upon page load, display Home
                 $scope.getLabGuide({
                     filename: 'Home.md'
