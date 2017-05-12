@@ -57,7 +57,7 @@ img:not(.infra), canvas:not(.infra), iframe:not(.infra), video:not(.infra), sele
     top: 0;
     left: 0;
     width: 100%;
-    height: 90%;
+    height: 100%;
 }
 
 
@@ -69,6 +69,12 @@ img:not(.infra), canvas:not(.infra), iframe:not(.infra), video:not(.infra), sele
         padding: 3.25rem 10em;
         font-family: 'Open Sans Condensed', sans-serif;
         font-weight: 300;
+    }
+    .interactive-wrapper {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 42%;
     }
 }
 
@@ -99,5 +105,11 @@ img:not(.infra), canvas:not(.infra), iframe:not(.infra), video:not(.infra), sele
         font-size: .85rem;
         margin-bottom: 1rem;
         margin-left: 15px;
+    }
+    .interactive-wrapper {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%;
     }
 }
